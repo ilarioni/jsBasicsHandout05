@@ -58,3 +58,13 @@ console.log(m1);
 console.log("This is pi - " + m1);
 console.log(Math.round(4.7));
 console.log(Math.round(4.4));
+
+console.log(Math.pow(8,2));
+console.log(Math.sqrt(64));
+console.log(Math.abs(-33));
+
+console.log(Math.ceil(31.2));
+console.log(Math.floor(27.9));
+
+console.log(Math.min(0,150,33,-200));
+
