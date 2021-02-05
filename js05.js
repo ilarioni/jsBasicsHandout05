@@ -76,3 +76,15 @@ console.log(Math.floor(Math.random() * 11));
 
 console.log(Math.floor(Math.random() * 100));
 
+// JavaScript Booleans
+// True - False 
+// On - Off
+// Yes - No
+console.log(10 > 9);
+console.log(10 == 9);
+
+var bol1 = 1;
+console.log(Boolean(bol1));
+
+var bol2 = 0;
+console.log(Boolean(bol2));
