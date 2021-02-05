@@ -21,3 +21,14 @@ console.log(a);
 
 var b = new Date("Jan 05 2021");
 console.log(b);
+
+// Date Get and Set methods
+
+var c = new Date();
+console.log("This is time in mileseconds - " + c.getTime());
+console.log("This time shows fullyear - " + c.getFullYear());
+console.log("This time shows month - " + c.getMonth());
+console.log("This time shows hours - " + c.getHours());
+console.log("This time shows minutes - " + c.getMinutes());
+console.log("This time shows seconds - " + c.getSeconds());
+console.log("This time shows day - " + c.getDay());
