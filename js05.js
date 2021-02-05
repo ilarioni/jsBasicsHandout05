@@ -41,3 +41,20 @@ console.log("This Set method shows date " + f);
 f.setHours(22);
 console.log("This Set method shows hours " + f);
 
+// JavaScript Math Object
+// Math.PI
+// Math.round
+// Math.pow()
+// Math.sqrt()
+// Math.abs()
+// Math.ceil()
+// Math.floor()
+// Math.min()
+// Math.max()
+// Math.random()
+
+var m1 = Math.PI;
+console.log(m1);
+console.log("This is pi - " + m1);
+console.log(Math.round(4.7));
+console.log(Math.round(4.4));
