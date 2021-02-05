@@ -32,3 +32,12 @@ console.log("This time shows hours - " + c.getHours());
 console.log("This time shows minutes - " + c.getMinutes());
 console.log("This time shows seconds - " + c.getSeconds());
 console.log("This time shows day - " + c.getDay());
+
+var f = new Date();
+console.log("This Set method shows time " + f.setFullYear(2021));
+console.log("This Set method shows month " + f.setMonth(2));
+f.setDate(15);
+console.log("This Set method shows date " + f);
+f.setHours(22);
+console.log("This Set method shows hours " + f);
+
