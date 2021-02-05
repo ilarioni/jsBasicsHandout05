@@ -88,3 +88,8 @@ console.log(Boolean(bol1));
 
 var bol2 = 0;
 console.log(Boolean(bol2));
+
+// Conditional (ternary) operator
+var age = 16;
+var voteable = (age < 18) ? "Too young":"Old enough";
+console.log(voteable);
