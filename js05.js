@@ -68,3 +68,11 @@ console.log(Math.floor(27.9));
 
 console.log(Math.min(0,150,33,-200));
 
+console.log(Math.random());
+
+console.log(Math.floor(Math.random() * 10));
+
+console.log(Math.floor(Math.random() * 11));
+
+console.log(Math.floor(Math.random() * 100));
+
